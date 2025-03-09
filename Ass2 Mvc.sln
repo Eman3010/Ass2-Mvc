@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ass2 Mvc", "Ass2 Mvc\Ass2 Mvc.csproj", "{8BFDC3AD-8CBC-4C69-9FF9-5F12216ABA6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BFDC3AD-8CBC-4C69-9FF9-5F12216ABA6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BFDC3AD-8CBC-4C69-9FF9-5F12216ABA6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BFDC3AD-8CBC-4C69-9FF9-5F12216ABA6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BFDC3AD-8CBC-4C69-9FF9-5F12216ABA6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {299BEA9D-8795-41E1-95EC-FAA637D9F45A}
+	EndGlobalSection
+EndGlobal
